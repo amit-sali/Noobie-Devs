@@ -1,6 +1,8 @@
+
 body {
  font-family: 'Montserrat', sans-serif;
  font-weight: 200;
+ background:linear-gradient(to left,#434343, #000000)
 }
 
 .d1{
@@ -15,7 +17,7 @@ body {
 }
 
 .d2{
-	background-color:#fb3 ;
+	background:linear-gradient(to bottom,#fc00ff,#00dbde) ;
 	height: 300px;
 	width: 40%;
 	
@@ -24,6 +26,7 @@ body {
 }
 
 .d3{
+  margin-top: 10px;
 
 }
 
@@ -54,7 +57,7 @@ body {
 }
 
 
-.buttn {background-image: linear-gradient(to right, #FF512F 0%, #F09819  51%, #FF512F  100%)}
+.buttn {background: linear-gradient(to right, #27f 0%, #fc00ff  51%, #c2f  100%)}
 .buttn{
    margin: 10px;
    padding: 15px 45px;
@@ -69,7 +72,7 @@ body {
  }
 
  .buttn:hover {
-   background-position: right center; /* change the direction of the change here */
+   background-position: right center; 
    color: #fff;
    text-decoration: none;
  }
