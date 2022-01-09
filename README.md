@@ -1,1 +1,1 @@
-Hey , This is Amit Sali
+simple calculator
